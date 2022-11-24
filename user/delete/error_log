@@ -1,0 +1,30 @@
+[16-Oct-2022 23:25:07 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/user/delete/cart.php on line 7
+[16-Oct-2022 23:25:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/user/delete/cart.php on line 15
+[16-Oct-2022 23:25:07 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/user/delete/cart.php on line 21
+[16-Oct-2022 23:25:18 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/user/delete/cart.php on line 7
+[16-Oct-2022 23:25:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/user/delete/cart.php on line 15
+[16-Oct-2022 23:25:18 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/user/delete/cart.php on line 21
+[16-Oct-2022 23:26:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[16-Oct-2022 23:26:35 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[18-Oct-2022 03:17:46 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[18-Oct-2022 03:17:46 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[23-Oct-2022 20:57:30 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[23-Oct-2022 20:57:30 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[24-Oct-2022 22:39:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[24-Oct-2022 22:39:51 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[25-Oct-2022 01:16:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[25-Oct-2022 01:16:11 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[25-Oct-2022 01:16:16 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[25-Oct-2022 01:16:16 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[25-Oct-2022 01:16:22 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[25-Oct-2022 01:16:22 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[30-Oct-2022 09:04:26 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[30-Oct-2022 09:04:26 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[30-Oct-2022 09:04:32 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[30-Oct-2022 09:04:32 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[09-Nov-2022 21:32:52 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[09-Nov-2022 21:32:52 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[09-Nov-2022 21:32:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[09-Nov-2022 21:32:55 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[18-Nov-2022 01:34:52 America/New_York] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/user/delete/cart.php on line 16
+[18-Nov-2022 01:34:52 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/user/delete/cart.php on line 16

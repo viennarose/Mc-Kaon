@@ -1,0 +1,76 @@
+[16-Oct-2022 23:09:27 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/user/insert/cart.php on line 2
+[16-Oct-2022 23:09:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/user/insert/cart.php on line 11
+[16-Oct-2022 23:09:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/user/insert/cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/cart.php on line 13
+[16-Oct-2022 23:09:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/user/insert/cart.php on line 2
+[16-Oct-2022 23:09:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/user/insert/cart.php on line 11
+[16-Oct-2022 23:09:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/user/insert/cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/cart.php on line 13
+[22-Oct-2022 08:13:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:13:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:13:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:13:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:13:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:13:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:13:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:15:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:15:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:17:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:18:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14
+[22-Oct-2022 08:18:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/elraogsz/public_html/user/insert/reserve.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/user/insert/reserve.php on line 14

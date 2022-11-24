@@ -1,0 +1,47 @@
+[19-Oct-2022 22:29:55 America/New_York] PHP Notice:  Undefined variable: myext in /home/elraogsz/public_html/admin/insert/employee.php on line 42
+[19-Oct-2022 22:29:55 America/New_York] PHP Notice:  Undefined variable: myext in /home/elraogsz/public_html/admin/insert/employee.php on line 58
+[19-Oct-2022 22:32:42 America/New_York] PHP Notice:  Undefined variable: myext in /home/elraogsz/public_html/admin/insert/employee.php on line 42
+[19-Oct-2022 22:32:42 America/New_York] PHP Notice:  Undefined variable: myext in /home/elraogsz/public_html/admin/insert/employee.php on line 58
+[26-Oct-2022 01:12:41 America/New_York] PHP Notice:  Undefined variable: sqlmysqli_query in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:41 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/elraogsz/public_html/admin/insert/menu.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:46 America/New_York] PHP Notice:  Undefined variable: sqlmysqli_query in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:46 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/elraogsz/public_html/admin/insert/menu.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:46 America/New_York] PHP Notice:  Undefined variable: sqlmysqli_query in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:46 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/elraogsz/public_html/admin/insert/menu.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:46 America/New_York] PHP Notice:  Undefined variable: sqlmysqli_query in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:46 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/elraogsz/public_html/admin/insert/menu.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:46 America/New_York] PHP Notice:  Undefined variable: sqlmysqli_query in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:46 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/elraogsz/public_html/admin/insert/menu.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:47 America/New_York] PHP Notice:  Undefined variable: sqlmysqli_query in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:47 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/elraogsz/public_html/admin/insert/menu.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:48 America/New_York] PHP Notice:  Undefined variable: sqlmysqli_query in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:48 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/elraogsz/public_html/admin/insert/menu.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:56 America/New_York] PHP Notice:  Undefined variable: sqlmysqli_query in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:12:56 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/elraogsz/public_html/admin/insert/menu.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/insert/menu.php on line 29
+[26-Oct-2022 01:13:52 America/New_York] PHP Notice:  Undefined variable: sql1 in /home/elraogsz/public_html/admin/insert/menu.php on line 37
+[06-Nov-2022 07:08:27 America/New_York] PHP Notice:  Undefined variable: total_id in /home/elraogsz/public_html/admin/insert/menu.php on line 38
+[06-Nov-2022 07:18:10 America/New_York] PHP Notice:  Undefined variable: total_id in /home/elraogsz/public_html/admin/insert/menu.php on line 38

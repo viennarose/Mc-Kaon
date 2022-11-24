@@ -1,0 +1,706 @@
+[16-Oct-2022 13:08:21 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/db/connect.php on line 2
+[16-Oct-2022 23:24:17 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/db/connect.php on line 2
+[16-Oct-2022 23:24:54 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/db/connect.php on line 2
+[16-Oct-2022 23:44:08 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[16-Oct-2022 23:44:16 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[16-Oct-2022 23:45:09 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[16-Oct-2022 23:45:13 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[16-Oct-2022 23:46:59 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[16-Oct-2022 23:47:03 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[16-Oct-2022 23:49:09 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 00:06:31 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 00:07:08 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 00:07:22 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 00:07:23 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 00:07:24 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 00:07:42 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 00:07:49 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 00:08:02 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 00:08:13 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 00:08:14 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 00:08:21 America/New_York] PHP Notice:  Undefined variable: abouts in /home/elraogsz/public_html/admin/home.php on line 19
+[17-Oct-2022 00:08:21 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/home.php on line 19
+[17-Oct-2022 00:08:29 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/elraogsz/public_html/admin/sidebar.php on line 302
+[17-Oct-2022 06:12:57 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[17-Oct-2022 06:12:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Oct-2022 06:12:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Oct-2022 06:12:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Oct-2022 06:12:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[17-Oct-2022 06:12:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[17-Oct-2022 06:12:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[17-Oct-2022 11:45:11 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[17-Oct-2022 11:45:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Oct-2022 11:45:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Oct-2022 11:45:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Oct-2022 11:45:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[17-Oct-2022 11:45:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[17-Oct-2022 11:45:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[18-Oct-2022 00:12:35 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/home.php on line 456
+[18-Oct-2022 00:12:35 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/elraogsz/public_html/admin/home.php:456
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/home.php on line 456
+[18-Oct-2022 00:13:26 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/home.php on line 427
+[18-Oct-2022 00:13:26 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/elraogsz/public_html/admin/home.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/home.php on line 427
+[18-Oct-2022 00:13:29 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/home.php on line 427
+[18-Oct-2022 00:13:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/elraogsz/public_html/admin/home.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/home.php on line 427
+[18-Oct-2022 00:14:06 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/home.php on line 427
+[18-Oct-2022 00:14:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/elraogsz/public_html/admin/home.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/home.php on line 427
+[18-Oct-2022 00:14:20 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/home.php on line 425
+[18-Oct-2022 00:14:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/elraogsz/public_html/admin/home.php:425
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/home.php on line 425
+[18-Oct-2022 00:14:39 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/home.php on line 425
+[18-Oct-2022 00:14:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/elraogsz/public_html/admin/home.php:425
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/home.php on line 425
+[18-Oct-2022 00:14:49 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/home.php on line 427
+[18-Oct-2022 00:14:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/elraogsz/public_html/admin/home.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/home.php on line 427
+[18-Oct-2022 00:15:50 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/home.php on line 416
+[18-Oct-2022 00:15:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/elraogsz/public_html/admin/home.php:416
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/home.php on line 416
+[18-Oct-2022 00:16:03 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/home.php on line 416
+[18-Oct-2022 00:16:03 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/elraogsz/public_html/admin/home.php:416
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/home.php on line 416
+[18-Oct-2022 00:16:31 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/home.php on line 425
+[18-Oct-2022 00:16:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/elraogsz/public_html/admin/home.php:425
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/home.php on line 425
+[17-Oct-2022 12:29:43 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[17-Oct-2022 12:29:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Oct-2022 12:29:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Oct-2022 12:29:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Oct-2022 12:29:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[17-Oct-2022 12:29:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[17-Oct-2022 12:29:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[18-Oct-2022 08:17:06 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/order_notif.php on line 194
+[18-Oct-2022 08:17:06 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/admin/order_notif.php on line 195
+[18-Oct-2022 08:17:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/admin/order_notif.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/order_notif.php on line 196
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 114
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 132
+[18-Oct-2022 08:17:22 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 133
+[18-Oct-2022 08:17:22 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/order_notif.php on line 194
+[18-Oct-2022 08:17:22 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/admin/order_notif.php on line 195
+[18-Oct-2022 08:17:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/admin/order_notif.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/order_notif.php on line 196
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 114
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 132
+[18-Oct-2022 08:17:32 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 133
+[18-Oct-2022 08:17:32 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/order_notif.php on line 194
+[18-Oct-2022 08:17:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/admin/order_notif.php on line 195
+[18-Oct-2022 08:17:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/admin/order_notif.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/order_notif.php on line 196
+[18-Oct-2022 08:17:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/order_notif.php on line 194
+[18-Oct-2022 08:17:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/admin/order_notif.php on line 195
+[18-Oct-2022 08:17:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/admin/order_notif.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/order_notif.php on line 196
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 114
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 132
+[18-Oct-2022 08:17:42 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 133
+[18-Oct-2022 08:17:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/order_notif.php on line 194
+[18-Oct-2022 08:17:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/admin/order_notif.php on line 195
+[18-Oct-2022 08:17:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/admin/order_notif.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/order_notif.php on line 196
+[18-Oct-2022 08:17:46 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/order_notif.php on line 194
+[18-Oct-2022 08:17:46 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/admin/order_notif.php on line 195
+[18-Oct-2022 08:17:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/admin/order_notif.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/order_notif.php on line 196
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 114
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 132
+[18-Oct-2022 08:18:31 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 133
+[18-Oct-2022 08:18:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/order_notif.php on line 194
+[18-Oct-2022 08:18:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/admin/order_notif.php on line 195
+[18-Oct-2022 08:18:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/admin/order_notif.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/order_notif.php on line 196
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 114
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 132
+[18-Oct-2022 08:19:04 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 133
+[18-Oct-2022 08:19:04 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/order_notif.php on line 194
+[18-Oct-2022 08:19:04 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/admin/order_notif.php on line 195
+[18-Oct-2022 08:19:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/admin/order_notif.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/order_notif.php on line 196
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 114
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 132
+[18-Oct-2022 08:19:09 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 133
+[18-Oct-2022 08:19:09 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/order_notif.php on line 194
+[18-Oct-2022 08:19:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/admin/order_notif.php on line 195
+[18-Oct-2022 08:19:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/admin/order_notif.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/order_notif.php on line 196
+[18-Oct-2022 08:19:18 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/elraogsz/public_html/admin/order_notif.php on line 194
+[18-Oct-2022 08:19:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/elraogsz/public_html/admin/order_notif.php on line 195
+[18-Oct-2022 08:19:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/elraogsz/public_html/admin/order_notif.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/elraogsz/public_html/admin/order_notif.php on line 196
+[24-Oct-2022 08:27:16 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[24-Oct-2022 08:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[24-Oct-2022 08:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[24-Oct-2022 08:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[24-Oct-2022 08:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[24-Oct-2022 08:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[24-Oct-2022 08:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[24-Oct-2022 23:28:16 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[24-Oct-2022 23:28:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[24-Oct-2022 23:28:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[24-Oct-2022 23:28:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[24-Oct-2022 23:28:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[24-Oct-2022 23:28:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[24-Oct-2022 23:28:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[25-Oct-2022 03:54:39 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[25-Oct-2022 03:54:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[25-Oct-2022 03:54:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[25-Oct-2022 03:54:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[25-Oct-2022 03:54:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[25-Oct-2022 03:54:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[25-Oct-2022 03:54:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[25-Oct-2022 03:54:52 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[25-Oct-2022 03:54:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[25-Oct-2022 03:54:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[25-Oct-2022 03:54:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[25-Oct-2022 03:54:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[25-Oct-2022 03:54:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[25-Oct-2022 03:54:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[25-Oct-2022 08:32:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[25-Oct-2022 08:32:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[25-Oct-2022 08:32:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[25-Oct-2022 08:32:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[25-Oct-2022 08:32:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[25-Oct-2022 08:32:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[25-Oct-2022 08:51:38 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[25-Oct-2022 08:52:09 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[25-Oct-2022 08:53:32 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[25-Oct-2022 08:53:38 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[25-Oct-2022 08:55:26 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 08:55:26 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:55:26 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:55:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 08:55:30 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 08:55:30 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:55:30 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 08:55:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 09:31:42 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 09:31:42 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 09:31:42 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 09:31:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 09:32:35 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 09:32:35 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 09:32:35 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 09:32:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 10:43:16 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 10:43:16 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 10:43:16 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 10:43:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 10:47:46 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 10:47:46 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 10:47:46 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 10:47:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[25-Oct-2022 11:11:36 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[25-Oct-2022 11:12:05 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[26-Oct-2022 00:11:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 00:11:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 00:11:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 00:11:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[26-Oct-2022 00:11:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[26-Oct-2022 00:11:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[26-Oct-2022 01:28:38 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[26-Oct-2022 01:28:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 01:28:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 01:28:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 01:28:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[26-Oct-2022 01:28:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[26-Oct-2022 01:28:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[26-Oct-2022 01:29:26 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/elraogsz/public_html/admin/db/connect.php on line 2
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[26-Oct-2022 01:31:38 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[26-Oct-2022 01:47:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[26-Oct-2022 01:47:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[26-Oct-2022 01:47:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[26-Oct-2022 01:47:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 270
+[26-Oct-2022 01:49:29 America/New_York] PHP Notice:  Undefined variable: output in /home/elraogsz/public_html/admin/order_notif.php on line 279
+[26-Oct-2022 01:49:54 America/New_York] PHP Notice:  Undefined variable: output in /home/elraogsz/public_html/admin/order_notif.php on line 279
+[26-Oct-2022 01:50:10 America/New_York] PHP Notice:  Undefined variable: output in /home/elraogsz/public_html/admin/order_notif.php on line 279
+[26-Oct-2022 01:51:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[26-Oct-2022 01:51:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 270
+[26-Oct-2022 02:14:14 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[26-Oct-2022 02:14:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:14:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:14:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:14:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[26-Oct-2022 02:14:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[26-Oct-2022 02:14:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[26-Oct-2022 02:24:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:24:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:24:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:24:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[26-Oct-2022 02:24:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[26-Oct-2022 02:24:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[26-Oct-2022 02:24:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:24:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:24:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:24:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[26-Oct-2022 02:24:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[26-Oct-2022 02:24:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[26-Oct-2022 02:24:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:24:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:24:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[26-Oct-2022 02:24:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[26-Oct-2022 02:24:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[26-Oct-2022 02:24:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:56:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 20:57:36 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 198
+[30-Oct-2022 21:17:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 200
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/elraogsz/public_html/admin/statistics.php on line 199
+[30-Oct-2022 21:17:52 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/elraogsz/public_html/admin/statistics.php on line 201
+[30-Oct-2022 09:23:53 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/elraogsz/public_html/admin/statistics.php on line 302
+[30-Oct-2022 09:24:25 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/elraogsz/public_html/admin/statistics.php on line 302
+[04-Nov-2022 22:04:33 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[04-Nov-2022 22:04:33 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[04-Nov-2022 22:04:33 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[04-Nov-2022 22:04:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[06-Nov-2022 07:15:54 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[06-Nov-2022 07:15:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[06-Nov-2022 07:15:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[06-Nov-2022 07:15:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[06-Nov-2022 07:15:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[06-Nov-2022 07:15:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[06-Nov-2022 07:15:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[06-Nov-2022 07:39:41 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[06-Nov-2022 07:39:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[06-Nov-2022 07:39:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[06-Nov-2022 07:39:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[06-Nov-2022 07:39:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[06-Nov-2022 07:39:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[06-Nov-2022 07:39:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[06-Nov-2022 07:40:43 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[06-Nov-2022 07:40:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[06-Nov-2022 07:40:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[06-Nov-2022 07:40:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[06-Nov-2022 07:40:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[06-Nov-2022 07:40:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[06-Nov-2022 07:40:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[09-Nov-2022 20:47:49 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 272
+[09-Nov-2022 21:35:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[09-Nov-2022 21:35:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[09-Nov-2022 21:35:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[09-Nov-2022 21:35:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[09-Nov-2022 21:35:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[09-Nov-2022 21:35:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[09-Nov-2022 21:35:35 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[09-Nov-2022 21:35:35 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:35:35 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:35:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[09-Nov-2022 21:35:39 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 272
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[09-Nov-2022 21:35:43 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 272
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[09-Nov-2022 21:36:17 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 272
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[09-Nov-2022 21:37:57 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 272
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[09-Nov-2022 21:38:20 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 272
+[09-Nov-2022 21:38:25 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[09-Nov-2022 21:38:25 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:38:25 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[09-Nov-2022 21:38:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[10-Nov-2022 07:15:44 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[10-Nov-2022 07:15:44 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[10-Nov-2022 07:15:44 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[10-Nov-2022 07:15:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[10-Nov-2022 07:15:50 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[10-Nov-2022 07:15:50 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[10-Nov-2022 07:15:50 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[10-Nov-2022 07:15:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[10-Nov-2022 07:15:55 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[10-Nov-2022 07:15:55 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[10-Nov-2022 07:15:55 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[10-Nov-2022 07:15:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 30
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: citymunCode in /home/elraogsz/public_html/admin/order_notif.php on line 37
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: brgyDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: citymunDesc in /home/elraogsz/public_html/admin/order_notif.php on line 43
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: mycity in /home/elraogsz/public_html/admin/order_notif.php on line 44
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/order_notif.php on line 47
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: address in /home/elraogsz/public_html/admin/order_notif.php on line 49
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: contact_Number in /home/elraogsz/public_html/admin/order_notif.php on line 58
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: Email in /home/elraogsz/public_html/admin/order_notif.php on line 127
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: orderdate in /home/elraogsz/public_html/admin/order_notif.php on line 145
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: tokenid in /home/elraogsz/public_html/admin/order_notif.php on line 146
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 239
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: Payment_status in /home/elraogsz/public_html/admin/order_notif.php on line 243
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 261
+[13-Nov-2022 00:04:39 America/New_York] PHP Notice:  Undefined variable: statussss in /home/elraogsz/public_html/admin/order_notif.php on line 272
+[17-Nov-2022 04:35:38 America/New_York] PHP Notice:  Undefined index: admin in /home/elraogsz/public_html/admin/db/session.php on line 8
+[17-Nov-2022 04:35:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Nov-2022 04:35:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Nov-2022 04:35:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 12
+[17-Nov-2022 04:35:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 13
+[17-Nov-2022 04:35:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/db/session.php on line 15
+[17-Nov-2022 04:35:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/elraogsz/public_html/admin/sidebar.php on line 21
