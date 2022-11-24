@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-  $username = "root";
-  $password = "";
-  $db="file_backup";
+  $username = "mdccapst_mc-kaon";
+  $password = "ilovemckaon";
+  $db="mdccapst_mc-kaon";
 
   $conn = mysqli_connect($servername, $username, $password,$db);
 

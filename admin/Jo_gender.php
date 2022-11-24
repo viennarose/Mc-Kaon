@@ -93,7 +93,7 @@ include("footer.php");
 
            <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>      
     <?php  
- $connect = mysqli_connect("localhost", "root", "", "jocos_payroll");  
+ $connect = mysqli_connect("localhost", "mdccapst_mc-kaon", "ilovemckaon", "mdccapst_mc-kaon");  
  $query = "SELECT employee_information.sex, count(*) as number FROM employee_information Inner Join employment_info on employee_information.employeeno = employment_info.employeeno Where employment_info.employmenttype = 'JO' and (employment_info.isactive = 'yes' or employment_info.isactive = 'Newly Hired' or employment_info.isactive = 'Renewed') and employee_information.sex NOT IN('-- Sel','') GROUP BY employee_information.sex";  
  $result = mysqli_query($connect, $query);  
  ?>  
